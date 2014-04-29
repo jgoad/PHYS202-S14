@@ -1,0 +1,9 @@
+# 
+#  Image file: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=752x800 at 0xAC25688>
+#  Applied threshold: 600
+#  Algorithm used: fill2                 
+#  Processing time: 36.164000 (s)
+#  Star count: 1
+#  Location (x,y) and max luminance:
+# 
+  0	  0	765	
