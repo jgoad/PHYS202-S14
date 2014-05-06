@@ -1,0 +1,18 @@
+# 
+#  Image file: frame00001.jpg
+#  Applied threshold: 600
+#  Algorithm used: fill2                 
+#  Processing time: 0.072000 (s)
+#  Particle count: 10
+#  Location (x,y) and max luminance:
+# 
+ 80	310	764	
+203	475	764	
+240	297	764	
+254	223	647	
+258	450	662	
+309	 95	764	
+345	233	764	
+483	318	764	
+491	152	764	
+583	477	764	
