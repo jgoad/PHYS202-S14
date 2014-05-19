@@ -2,7 +2,7 @@
 #  Image file: frame00077.jpg
 #  Applied threshold: 500
 #  Algorithm used: fill2                 
-#  Processing time: 0.071000 (s)
+#  Processing time: 0.069000 (s)
 #  Particle count: 14
 #  Location (x,y), max luminance, and mass:
 # 
