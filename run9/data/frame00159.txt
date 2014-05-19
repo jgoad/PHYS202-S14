@@ -1,24 +1,20 @@
 # 
 #  Image file: frame00159.jpg
-#  Applied threshold: 400
+#  Applied threshold: 500
 #  Algorithm used: fill2                 
-#  Processing time: 0.068000 (s)
-#  Particle count: 16
+#  Processing time: 0.070000 (s)
+#  Particle count: 12
 #  Location (x,y), max luminance, and mass:
 # 
  29	369	542	  1	
- 44	310	608	  4	
- 50	215	407	  1	
- 74	305	764	  7	
-109	446	764	  3	
-113	375	764	  5	
-115	292	452	  1	
-153	 25	764	  4	
-163	378	764	  5	
-247	373	764	  6	
+ 44	310	608	  3	
+ 74	305	764	  4	
+110	445	764	  3	
+113	375	764	  3	
+153	 25	764	  3	
+163	378	764	  3	
+247	373	764	  4	
 254	223	620	  1	
-379	276	764	  4	
+378	277	764	  3	
 390	324	545	  1	
-472	363	764	  7	
-559	446	416	  1	
-588	415	488	  1	
+471	365	764	  5	
