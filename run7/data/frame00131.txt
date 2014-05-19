@@ -1,0 +1,19 @@
+# 
+#  Image file: frame00131.jpg
+#  Applied threshold: 500
+#  Algorithm used: fill2                 
+#  Particle count: 12
+#  Location (x,y), max luminance, and mass:
+# 
+ 25	308	764	  3	
+115	292	509	  1	
+133	339	764	  4	
+254	223	587	  1	
+267	 36	764	  6	
+390	324	536	  1	
+443	413	521	  1	
+521	447	764	  2	
+535	172	764	  5	
+544	 80	765	  3	
+556	 73	765	  3	
+591	397	764	  5	

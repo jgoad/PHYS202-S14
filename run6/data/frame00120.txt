@@ -1,0 +1,14 @@
+# 
+#  Image file: frame00120.jpg
+#  Applied threshold: 500
+#  Algorithm used: fill2                 
+#  Particle count: 7
+#  Location (x,y), max luminance, and mass:
+# 
+242	285	764	  3	
+254	223	620	  1	
+265	 52	764	  3	
+334	 77	614	  7	
+390	324	530	  1	
+441	188	656	  7	
+499	272	764	  3	

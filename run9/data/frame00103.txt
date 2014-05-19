@@ -2,7 +2,6 @@
 #  Image file: frame00103.jpg
 #  Applied threshold: 500
 #  Algorithm used: fill2                 
-#  Processing time: 0.069000 (s)
 #  Particle count: 18
 #  Location (x,y), max luminance, and mass:
 # 
