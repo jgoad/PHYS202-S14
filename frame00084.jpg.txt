@@ -1,0 +1,22 @@
+# 
+#  Image file: frame00084.jpg
+#  Applied threshold: 600
+#  Algorithm used: fill2                 
+#  Processing time: 0.069000 (s)
+#  Particle count: 14
+#  Location (x,y), max luminance, and mass:
+# 
+ 94	272	656	  2	
+108	 79	629	  1	
+125	394	764	  3	
+126	 23	602	  1	
+154	391	764	  3	
+240	269	761	  2	
+245	321	764	  2	
+254	223	647	  1	
+379	236	764	  2	
+406	477	764	  3	
+438	292	764	  5	
+480	203	764	  5	
+498	326	761	  5	
+518	 74	740	  3	

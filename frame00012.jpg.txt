@@ -1,0 +1,15 @@
+# 
+#  Image file: frame00012.jpg
+#  Applied threshold: 600
+#  Algorithm used: fill2                 
+#  Processing time: 0.069000 (s)
+#  Particle count: 7
+#  Location (x,y), max luminance, and mass:
+# 
+ 72	471	764	  2	
+249	438	764	  4	
+254	223	632	  1	
+320	 95	764	  2	
+358	227	764	  2	
+474	320	764	  5	
+497	172	764	  2	

@@ -1,0 +1,15 @@
+# 
+#  Image file: frame00006.jpg
+#  Applied threshold: 600
+#  Algorithm used: fill2                 
+#  Processing time: 0.068000 (s)
+#  Particle count: 7
+#  Location (x,y), max luminance, and mass:
+# 
+254	223	671	  1	
+255	444	764	  2	
+311	 98	764	  2	
+351	233	764	  3	
+478	331	644	  3	
+493	167	764	  4	
+639	181	728	  2	
